@@ -8,7 +8,7 @@ function HeroSection() {
         <div className="hero-container">
             {/* <video src="../../public/videos/video-2.mp4" autoPlay loop muted/> */}
             <video loop autoPlay muted playsInline>
-                <source src={require('./video-2.mp4')} type="video/mp4" />
+                <source src={require('../assets/videos/video-2.mp4')} type="video/mp4" />
             </video>
             <h1>Adventure Awaits</h1>
             <p>What are you waiting for?</p>
