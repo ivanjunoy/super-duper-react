@@ -4,7 +4,6 @@ import './HeroSection.css';
 import '../App.css';
 
 function HeroSection() {
-    console.log('lelzon');
     return (
         <div className="hero-container">
             {/* <video src="../../public/videos/video-2.mp4" autoPlay loop muted/> */}
